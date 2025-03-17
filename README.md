@@ -12,10 +12,10 @@ SQL, Python, R
 Pandas, NumPy, Matplotlib, Seaborn, Wordcloud, Scikit-learn, MS Power BI
 - Gestión de proyectos:
 Metodologías ágiles: Scrum
-- Algunas otras habilidades:
+- Algunas otras:
 Pensamiento analítico, pensamiento crítico, resolución de problemas, iniciativa, organización, colaboración y trabajo en equipo, habilidades interpersonales
 
-Resido en la Ciudad de Buenos Aires, Argentina.
+Resido en la Ciudad de Buenos Aires, Argentina. </br>
 Mis datos de contacto son:  </br>
 e-mail. victoriariso@gmail.com  </br>
 LinkedIn. linkedin.com/in/victoriariso
