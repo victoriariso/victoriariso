@@ -1,4 +1,3 @@
-<h4> Hola, soy Victoria Riso</h4>
 <h4> Soy Data Scientist y Lic. en Análisis de Sistemas. Busco seguir desarrollándome profesionalmente. Poseo pensamiento analítico, tengo iniciativa, me gusta solucionar problemas, disfruto del trabajo en equipo y poseo excelentes habilidades interpersonales</h4>
 
 - Desde febrero de 2020 trabajo en la Dirección de Estadísticas e Información en Salud (DEIS) del Ministerio de Salud de la Nación
